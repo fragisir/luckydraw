@@ -7,3 +7,14 @@ visit vercal app
 https://luckydraw-kappa.vercel.app/
 
 start backend also 
+
+
+WORKING ON BACKEND WAIT A MOVEMENT 
+
+
+if you want to run backend locally then use it .
+
+visit https://www.roshanbasnet.com.np for my webside
+
+
+thankyou 
