@@ -48,7 +48,7 @@ export default function Footer() {
         <div className="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-slate-400">
           <p>© 2025 Nepal Loto 6. All rights reserved.</p>
           <div className="flex items-center gap-1 mt-2 md:mt-0">
-            <span>Made with</span> <Heart size={12} className="text-rose-500 fill-rose-500" /> <span>in Kathmandu</span>
+            <span>Developed by</span>  <span>Roshan Basnet</span>
           </div>
         </div>
       </div>
