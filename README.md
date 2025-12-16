@@ -15,4 +15,5 @@ visit https://www.roshanbasnet07.com.np for my webside
 
 right now you can use admin as a noram but later i will fix it.
 
+now ypou can login adiim as noraml user but production grade normal user cannot login and // admin login use authentication .
 thankyou
