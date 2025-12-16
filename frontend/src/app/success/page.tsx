@@ -13,7 +13,7 @@ function SuccessContent() {
     <div className="min-h-screen bg-slate-50 flex items-center justify-center p-4">
       <div className="max-w-md w-full">
         
-        {/* Success Animation Card */}
+        {/* Successful Animation Card */}
         <div className="modern-card text-center p-8 md:p-12 relative overflow-hidden border-t-8 border-t-emerald-500">
           <div className="absolute top-0 left-0 w-full h-full bg-[url('/bg-pattern.svg')] opacity-5 pointer-events-none"></div>
           
