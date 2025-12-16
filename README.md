@@ -17,3 +17,5 @@ right now you can use admin as a noram but later i will fix it.
 
 now ypou can login adiim as noraml user but production grade normal user cannot login and // admin login use authentication .
 thankyou
+
+if yopu need any help or explain then follow me on github or visit my webside
